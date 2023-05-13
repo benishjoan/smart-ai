@@ -1,6 +1,8 @@
 # Smart AI
+Smart AI is a suite of powerful tools for document processing and analysis, powered by OpenAI's advanced machine learning algorithms.
 
 ## Services
+Using OpenAI, we offer the following services:
 ```
 1. Document Summarizer
 2. Job Description Generator
